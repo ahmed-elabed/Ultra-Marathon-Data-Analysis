@@ -26,7 +26,7 @@ The dataset used in this project was sourced from [Kaggle: The Big Dataset of Ul
    - Histograms, violin plots, and line plots are used to represent various relationships in the data.
 
 4. **Comparative Analysis**:
-   - Analyze performance differences between male and female athletes for 50Km and 50Mi races.
+   - Analyze performance differences between male and female athletes for 50 Km and 50 Mi races.
    - Identify the best and worst-performing age groups for 50mi races.
 
 5. **Seasonal Performance**:
